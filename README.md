@@ -1,6 +1,6 @@
 **#Smart Contract for MyToken**
 
-A basic Solidity smart contract for a token called "Sumit" with the symbol "SK" can be found in this repository. The contract maintains balances for various addresses and permits token minting and burning.
+A basic Solidity smart contract for a token called "Randheer" with the symbol "RS" can be found in this repository. The contract maintains balances for various addresses and permits token minting and burning.
 
 ## Contract Information
 
