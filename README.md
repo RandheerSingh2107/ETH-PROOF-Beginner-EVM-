@@ -37,6 +37,10 @@ Using the burn function, tokens from a given address can be destroyed. Assuming 
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at [Remix](https://remix.ethereum.org/).
 
+
+
+
+
 #Author
 Randheer Singh
 
